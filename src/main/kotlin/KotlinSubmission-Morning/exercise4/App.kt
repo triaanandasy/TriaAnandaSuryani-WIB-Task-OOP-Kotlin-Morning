@@ -1,7 +1,7 @@
 package id.infinitelearning.KotlinSubmission.exercise4
 
 fun main() {
-    penggunaanTryCatchPrime(31, 20)
+    penggunaanTryCatchPrime(31, 25)
 }
 
     /**
